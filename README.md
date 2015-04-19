@@ -1,1 +1,8 @@
-# grandcube
+grandcube
+====
+
+GitHubのテスト
+
+##メンバー
+
+*testmember
